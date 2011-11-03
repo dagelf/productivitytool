@@ -22,6 +22,10 @@ Dependency Walker is a free utility that scans any 32-bit or 64-bit Windows modu
 
 [http://www.dependencywalker.com/snapshot.png]
 
+== Global Falgs == 
+GFlags (the Global Flags Editor), gflags.exe, enables and disables advanced debugging, diagnostic, and troubleshooting features. It is most often used to turn on indicators that other tools track, count, and log. [http://msdn.microsoft.com/en-us/library/windows/hardware/ff554138%28v=vs.85%29.aspx MSDN Link]
+
+[https://extranet.mm-software.com/FDT-Platform/FDTBlog/Lists/Photos/_w/GFLAGs_png.jpg]
 
 == GDIView ==
 [http://www.nirsoft.net/utils/gdi_handles.html http://www.nirsoft.net/nirsoft2.gif]
