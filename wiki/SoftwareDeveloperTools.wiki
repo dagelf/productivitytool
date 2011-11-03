@@ -37,3 +37,9 @@ This tool can be useful for developers that need to trace GDI resources leak in 
 The OLE-COM object viewer, Oleview.exe, is an application supplied with Visual C++ that displays the COM objects installed on your computer and the interfaces they support. You can use this object viewer to view type libraries.
 
 [http://download.oracle.com/docs/cd/A87860_01/doc/win.817/a73027/olecom.gif]
+
+== ORCA MSI Editor ==
+
+Orca MSI Editor allows you to edit the properties of any MSI file. With this tool, you can change the title and text within the installer an look at how and where the files are delivered.
+
+[http://static.flickr.com/90/216860472_ff6c74c269_o.jpg]
