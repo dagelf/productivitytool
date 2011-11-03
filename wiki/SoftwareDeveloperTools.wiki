@@ -5,10 +5,12 @@
 A set of Troubleshooting Utilities
 
 === Process Explorer ===
+Diplay the detailed information of the proecess, such as the environment variables, loaded dlls, dll paths etc.
 
 [http://technet.microsoft.com/en-us/sysinternals/bb896653 http://i.technet.microsoft.com/bb896653.processexplorer(en-us,MSDN.10).jpg]
 
 === Process Monitor ===
+Monitor event/operation of the process, such as file read/write, registry read/write, exit code etc.
 
 [http://technet.microsoft.com/en-us/sysinternals/bb896645 http://i.technet.microsoft.com/bb896645.procmon-main(en-us,MSDN.10).gif]
 
