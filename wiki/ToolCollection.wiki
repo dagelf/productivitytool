@@ -1,7 +1,5 @@
 #labels Featured
-In this page, we list a set of great tools which can improve the personal or team productivity very much.
-
-Perfect tool list
+In this page, we list a set of great FREE tools which can improve the personal or team productivity very much.
 
 =Search Tools=
  * Everything.exe (Windows)
@@ -53,5 +51,3 @@ http://pencil.evolus.vn/en-US/Home.aspx
 https://www.surveymonkey.com/ 
 
  * Netmeeting
-
-
