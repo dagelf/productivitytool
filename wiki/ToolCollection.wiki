@@ -1,15 +1,57 @@
 #labels Featured
 In this page, we list a set of great tools which can improve the personal or team productivity very much.
 
-=Online survey=
+Perfect tool list
 
-https://www.surveymonkey.com/
+=Search Tools=
+ * Everything.exe (Windows)
+http://www.voidtools.com/download.php
 
-=Netmeeting=
+=Remote Desktop Connection=
+ * Remote connect windows on Mac OS X (Mac OS X)
+http://cord.sourceforge.net/
 
-=Search tool=
+Enable the remote collection on Windows. Input the IP to the CoRD. It works as windows Remote Desktop Connection.
 
-Everything.exe http://www.voidtools.com/download.php 
 
-=Time control=
-Cool Time: http://www.harmonyhollow.net/cool_timer.shtml
+=Virtual Machine=
+ * Virtual box (Windows, Mac OS X, Linux)
+http://www.virtualbox.org/wiki/Downloads 
+
+=File Synchronization=
+ * Grsync(Windows, Mac OS X, Linux)
+http://www.opbyte.it/grsync/
+ * SyncBack Freeware (Windows)
+http://www.2brightsparks.com/download-syncback.html
+
+SyncBack is our freeware program that helps you easily backup and synchronize your files to: the same drive; a different drive or medium (CDRW, CompactFlash, etc); an FTP server; a Network; or a Zip archive.
+
+=Encryption/Decryption=
+ * EncryptOnClick Freeware (Windows)
+http://www.2brightsparks.com/freeware/freeware-hub.html#5
+EncryptOnClick is a program that lets you securely encrypt and decrypt files.
+
+EncryptOnClick is like hiring your own highly experienced data security guard who ensures the files you want to keep safe and out of view from others stay that way. The program is very simple to use and features military grade 256-bit AES encryption. 
+
+=Archiver=
+ * 7-zip (Windows, Mac OS X, Linux)
+http://www.7-zip.org/
+
+=Others=
+ * blacktree-nocturne (Mac OS X)
+Hide the top menu bar 
+
+http://code.google.com/p/blacktree-nocturne/
+
+ * Paint (Mac OS X)
+http://sourceforge.net/projects/paintbrush/
+
+ * Pencil (Windows, Linux, Firefox)
+http://pencil.evolus.vn/en-US/Home.aspx
+
+ * Online survey
+https://www.surveymonkey.com/ 
+
+ * Netmeeting
+
+
