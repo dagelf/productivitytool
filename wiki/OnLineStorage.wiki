@@ -1,7 +1,7 @@
 #summary List he servers to support the perfect online storage
 
  = Image hosting =
- * [http://www.freeimagehosting.net www.freeimagehosting.net]
+ * [http://www.imagehosting.com/ www.imagehosting.com]
 Free image web hosting with upload manager and online photo gallery creator. Upload your pictures free for posting images on message boards, hosting your ebay auction photos, and even sharing pictures with your family. You do not need to register, but creating an account lets you manage all your uploads and create online photo galleries. The web hosting for your hosted images is on a dedicated server. Filename extensions allowed: gif, jpg, bmp, png. The max filesize limit is 3000 KB. Uploaded pics are stored online at least 60 days. 
 
  = Sensor data hosting =
