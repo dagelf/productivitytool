@@ -81,5 +81,7 @@
  == Other candidates ==               
 
  = *Reference* =
- * [http://www.free-webhosts.com/free-image-hosting.php Free image hosting server list]
+ * [http://www.free-webhosts.com/free-image-hosting.php Free image sharing host list]
 List the top servers to provide the free image hosting service. 
+
+ * [http://www.4videosharing.com/ Video Sharing host list]
