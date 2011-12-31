@@ -1,4 +1,4 @@
-#summary List he servers to support the perfect online storage
+#summary List the servers to support the perfect online storage
 
  = Image hosting =
  * [http://www.imagehosting.com/ www.imagehosting.com]
