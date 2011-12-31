@@ -1,0 +1,7 @@
+#summary List he servers to support the perfect online storage
+
+ = Image hosting =
+ * www.freeimagehosting.net
+
+ = Sensor data hosting =
+ * www.pachube.com
