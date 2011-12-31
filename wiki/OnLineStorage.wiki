@@ -1,19 +1,85 @@
 #summary List the servers to support the perfect online storage
 
- = Image hosting =
- * [http://www.imagehosting.com/ www.imagehosting.com]
-Free image web hosting with upload manager and online photo gallery creator. Upload your pictures free for posting images on message boards, hosting your ebay auction photos, and even sharing pictures with your family. You do not need to register, but creating an account lets you manage all your uploads and create online photo galleries. The web hosting for your hosted images is on a dedicated server. Filename extensions allowed: gif, jpg, bmp, png. The max filesize limit is 3000 KB. Uploaded pics are stored online at least 60 days. 
+ = *Free image hosting* =
+ == Criteria == 
+ * Bandwidth: The image can be opened within 2s when access it in the outer website.
+ * Max storage limitation: No less than 200M.
+ * Max file size limitation: No less than 3M.
+ * No limit on time images will be stored
+ * Supported formats: png, gif.
+ * The images can be shared/linked to other websites, forums and can be accessed anonymously.
+ * The images can be backup to local easily.
 
- = Sensor data hosting =
- * [http://www.pachube.com www.pachube.com]
+ == Finalist ==
+ * [http://www.imagehosting.com www.imagehosting.com]
+                * The Web's Image Sharing Social Network!
+                * Dedicated servers host your images for free
+                * We host jpg, gif, and png images up to 10MB
+                * No limit on time photos will be stored
+                * Upload as many images as you would like
+                * Title, describe, and tag all your uploads
+                * Add comments to other user uploaded photos
+                * Keep them private or share with friends only
+                * Share on Facebook, Twitter, and Myspace
+                * Link your photos in websites, email, blogs
+
+ == Other candidates ==
+                
+ = *Free video hosting* =
+ == Criteria = 
+ * Bandwidth:
+ * Max storage limitation: No less than 1G.
+ * Max file size limitation: No less than 50M.
+ * Supported formats: 
+ * The videos can be shared/linked to other websites, forums and can be accessed anonymously.
 
 
+ == Finalist ==
+
+ == Other candidates ==               
+ * [http://v.qq.com v.qq.com]
+ * [http://www.youku.com/ www.youku.com]
+ * [http://v.sina.com.cn v.sina.com.cn]
+
+ = *Free project hosting* =
+ == Criteria = 
+ * Bandwidth:
+ * Max storage limitation: No less than 1G.
+ * The source file can be backup to local easily.
 
 
+ == Finalist ==
+ * [http://code.google.com/ Google Code]
+
+ == Other candidates ==               
+
+ = *Free file hosting* =
+ == Criteria ==
+ * Bandwidth:
+ * Max storage limitation: No less than 1G.
+ * Max file size limitation: No less than 10M.
+ * No limit on time files will be stored
+ * Supported formats: all format.
+ * The files can be set as private so they can't be browser by others.
+ * The files can be backup to local easily.
+
+ == Finalist ==
+
+ == Other candidates ==               
 
 
+ = *Free web hosting* =
+ == Criteria = 
+ * Bandwidth:
+ * Max storage limitation: No less than 200M.
+ * Max file size limitation: No less than 10M.
+ * Supported formats: all format.
 
 
- = References = 
+ == Finalist ==
+
+ == Other candidates ==               
+
+ = *Reference* =
  * [http://www.free-webhosts.com/free-image-hosting.php Free image hosting server list]
-List the top servers to provide the free image hosting service.
+List the top servers to provide the free image hosting service. 
