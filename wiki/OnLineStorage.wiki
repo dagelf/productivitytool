@@ -79,7 +79,16 @@
 
  == Finalist ==
 
- == Other candidates ==               
+ == Other candidates ==      
+
+ = *Free domain name* =
+ == Criteria = 
+ 
+ == Finalist ==
+ * [http://www.co.cc/]
+
+ == Other candidates ==        
+         
 
  = *Reference* =
  * [http://www.free-webhosts.com/free-image-hosting.php Free image sharing host list]
@@ -89,3 +98,6 @@ List the top servers to provide the free image hosting service.
 
  * [http://www.free-webhosts.com/webhosting-01.php Free web host list]
 "Free Webspace" is a directory list of free web hosting providers (free hompage hosting sites), with about 300 of the best free web space hosting sites with reviews, testimonials, and ratings, and is updated daily.  
+
+ * [http://www.free789.com/domain/]
+Free domain name list
