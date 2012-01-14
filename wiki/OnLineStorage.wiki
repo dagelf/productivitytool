@@ -78,6 +78,16 @@
 
 
  == Finalist ==
+ * [http://www.qiongzz.com/free.html]
+     * Server Location: China
+     * Max storage limitation:  10G
+     * Bandwidth: 50G
+     * Supported language: ASP、PHP、Access、MYSQL...
+
+     * Disadvantages
+          * Ads: Yes
+          * Domain name binding: No
+
 
  == Other candidates ==      
 
