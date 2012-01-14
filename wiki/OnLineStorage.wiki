@@ -11,6 +11,16 @@
  * The images can be backup to local easily.
 
  == Finalist ==
+ * [http://www.flickr.com]
+      * From yahoo
+      * Max: 300M
+      * Can set the image public or private
+      * Can share the images to the outside sites.
+      * Easy-of-use
+      * Can connect to iPhoto, iPhone.
+      * Has the PC client.
+
+ == Other candidates ==
  * [http://www.imagehosting.com www.imagehosting.com]
                 * The Web's Image Sharing Social Network!
                 * Dedicated servers host your images for free
@@ -24,15 +34,6 @@
                 * Link your photos in websites, email, blogs
                 * All image is public.
 
- == Other candidates ==
- * [http://www.flickr.com]
-      * From yahoo
-      * Max: 300M
-      * Can set the image public or private
-      * Can share the images to the outside sites.
-      * Easy-of-use
-      * Can connect to iPhoto, iPhone.
-      * Has the PC client.
                 
  = *Free video hosting* =
  == Criteria = 
