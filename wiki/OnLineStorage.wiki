@@ -25,7 +25,7 @@
                 * All image is public.
 
  == Other candidates ==
- * [www.flickr.com]
+ * [http://www.flickr.com]
       * From yahoo
       * Max: 300M
       * Can set the image public or private
