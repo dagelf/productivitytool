@@ -35,11 +35,11 @@
 
 
  == Finalist ==
+ * [http://www.youku.com/ www.youku.com]
 
  == Other candidates ==               
  * [http://v.qq.com v.qq.com]
      * Shortcoming: The video can't be linked to the outer sites arbitrarily. Only limited blogs are supported.
- * [http://www.youku.com/ www.youku.com]
  * [http://v.sina.com.cn v.sina.com.cn]
 
  = *Free project hosting* =
