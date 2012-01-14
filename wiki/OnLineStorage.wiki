@@ -31,6 +31,8 @@
       * Can set the image public or private
       * Can share the images to the outside sites.
       * Easy-of-use
+      * Can connect to iPhoto, iPhone.
+      * Has the PC client.
                 
  = *Free video hosting* =
  == Criteria = 
