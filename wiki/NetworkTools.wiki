@@ -1,0 +1,8 @@
+#summary Such as ftp tools
+
+ * Moroshka File Manager (Windows, OS X)
+    * Home: [http://www.moroshkaproject.ru/]
+    * Easy-of-use
+    * Robust
+    * Good performance
+[http://www.moroshkaproject.ru/images/my/main-banner.png]
