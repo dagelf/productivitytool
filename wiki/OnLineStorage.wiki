@@ -87,6 +87,7 @@
  == Finalist ==
  * [http://www.co.cc/]
      * Free for a year.
+     * THe server is hosted in Korea
      * [http://www.duia.org/post/328.html BLog: register steps]
 
  == Other candidates ==        
