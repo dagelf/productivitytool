@@ -22,8 +22,15 @@
                 * Keep them private or share with friends only
                 * Share on Facebook, Twitter, and Myspace
                 * Link your photos in websites, email, blogs
+                * All image is public.
 
  == Other candidates ==
+ * [www.flickr.com]
+      * From yahoo
+      * Max: 300M
+      * Can set the image public or private
+      * Can share the images to the outside sites.
+      * Easy-of-use
                 
  = *Free video hosting* =
  == Criteria = 
