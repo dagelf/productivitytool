@@ -1,0 +1,14 @@
+#summary List all the valuable forums.
+
+ * [http://stackoverflow.com/ Stack Overflow]
+Program discussion board.
+
+
+ * [http://www.instructables.com/ Instructables]
+[http://www.instructables.com/static/img/header/robot.png]
+Share what you make.
+
+
+ * [http://arduino.cc/forum/ Arduino Forum]
+[http://arduino.cc/en/uploads/Main/arduino_uno_test.jpg]
+
