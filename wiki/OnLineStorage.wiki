@@ -77,7 +77,15 @@
  == Finalist ==
 
  == Other candidates ==               
-
+ ＊[https://360.autodesk.com/Landing/Index Autodesk 360]
+    * Free personal storage: 3G 
+    * Share the files through web link
+ * [https://www.box.com/ BOX.com]
+    * Free personal storage: 5G 
+    * Share the files through web link
+    * Clients: Browser, iOS apps.
+    * Support Online collaboration
+    * Login account: Support gmail.
 
  = *Free web hosting* =
  == Criteria = 
