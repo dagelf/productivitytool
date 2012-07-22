@@ -35,7 +35,7 @@
                 * All image is public.
 
  * [http://imgur.com/]
-     * stack overflow hots image on this site.
+     * [http://stackoverflow.com/ stack overflow] hosts images on this site.
                 
  = *Free video hosting* =
  == Criteria = 
